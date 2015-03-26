@@ -1,0 +1,8 @@
+[ui]
+username = Yves-Noel Weweler <y.weweler@gmail.com>
+
+[extensions]
+convert =
+mercurial_keyring = 
+color =
+nautilus -q
