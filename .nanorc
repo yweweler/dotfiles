@@ -42,4 +42,4 @@ include ~/.nano/syntax/vala.nanorc
 include ~/.nano/syntax/vi.nanorc
 include ~/.nano/syntax/xml.nanorc
 include ~/.nano/syntax/xresources.nanorc
-include  ~/.nano/syntax/yaml.nanorc
+include ~/.nano/syntax/yaml.nanorc
