@@ -1,0 +1,4 @@
+eco zenburn             # enable zenburn theme
+
+# e asm.pseudo = true   # enable asm pseudocode
+e scr.utf8 = true       # enable full UTF8 rendering
